@@ -48,6 +48,3 @@ class mandelbrot():
 		return abs(self.mandelbrot_interation()) < self.some_threshold
 
 
-#	def __repr__(self):
-#		return self.mandelbrot_set()
-
